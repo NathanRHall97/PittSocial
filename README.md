@@ -1,9 +1,9 @@
 # PittSocial
 Database Management Project for The Univeristy of Pittsburgh
 # Contributers
-  - Nathan R. Hall
-  - Jiawei Zhuang
-  - Xingchen Zhao
+  - [Nathan R. Hall](https://github.com/NathanRHall97)
+  - [Jiawei Zhuang](https://github.com/ericjwz)
+  - [Xingchen Zhao](https://github.com/xingchenzhao)
 ## Project Information
   - [Project PDF](https://github.com/NathanRHall97/PittSocial/blob/master/Documentation/projectInfo.pdf)
 ## Developmental Phases
