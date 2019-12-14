@@ -1,2 +1,18 @@
 # PittSocial
-Pitt Social is a Java Application using postgreSQL for the CS1555 team project
+Database Management Project for The Univeristy of Pittsburgh
+# Contributers
+  - Nathan R. Hall
+  - Jiawei Zhuang
+  - Xingchen Zhao
+## Project Information
+  - [Project PDF](https://github.com/NathanRHall97/PittSocial/blob/master/Documentation/projectInfo.pdf)
+## Developmental Phases
+### Phase 1
+  - Creating [Schema.sql](https://github.com/NathanRHall97/PittSocial/blob/master/SQL%20Files/schema.sql)
+  - Creating [Insert.sql](https://github.com/NathanRHall97/PittSocial/blob/master/SQL%20Files/insert.sql)
+  - Creating [Trigger.sql](https://github.com/NathanRHall97/PittSocial/blob/master/SQL%20Files/trigger.sql)
+### Phase 2
+  - Creating [PittSocial.java](https://github.com/NathanRHall97/PittSocial/blob/master/Java%20Files/PittSocial.java)
+### Phase 3
+  - Creating [Driver.java](https://github.com/NathanRHall97/PittSocial/blob/master/Java%20Files/Driver.java)
+  
